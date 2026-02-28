@@ -1,0 +1,19 @@
+[project]
+name = "revrage-ai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "duckduckgo-search>=8.1.1",
+    "google-generativeai>=0.8.6",
+    "langchain-community>=0.4.1",
+    "livekit-agents>=1.4.3",
+    "livekit-plugins-google>=1.4.3",
+    "livekit-plugins-noise-cancellation>=0.2.5",
+    "livekit-plugins-openai>=1.4.3",
+    "livekit-plugins-silero>=1.4.3",
+    "mem0ai>=1.0.4",
+    "python-dotenv>=1.2.1",
+    "requests>=2.32.5",
+]
